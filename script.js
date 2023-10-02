@@ -104,7 +104,7 @@ function task5() {
     // console.log(Math.pow(i, 2))
     let num = 2
     let result = Math.pow(i, num)
-    console.log(`${i} * ${num} = ${result}`) // Reikia parasyti indexu
+    console.log(`${i}\u00B2 = ${result}`)
   }
 }
 
@@ -115,7 +115,7 @@ function task6() {
     // console.log(Math.pow(i, 3))
     let num = 3
     let result = Math.pow(i, num)
-    console.log(`${i} * ${num} = ${result}`) // Reikia parasyti indexu
+    console.log(`${i}\u00B3 = ${result}`)
   }
 }
 
@@ -170,7 +170,7 @@ function task11() {
     // console.log(Math.pow(i, 2))
     let num = 2
     let result = Math.pow(i, num)
-    console.log(`${i} * ${num} = ${result}`) // Reikia parasyti indexu
+    console.log(`${i}\u00B2 = ${result}`)
   }
 }
 
@@ -181,7 +181,7 @@ function task12() {
     // console.log(Math.pow(i, 3))
     let num = 3
     let result = Math.pow(i, num)
-    console.log(`${i} * ${num} = ${result}`) // Reikia parasyti indexu
+    console.log(`${i}\u00B3 = ${result}`)
   }
 }
 
