@@ -216,33 +216,33 @@ function task12() {
 
 function fizzbuzz() {
 for (let i = 1; i <= 300; i++) {
-  let output = "";
+  let output = ""
 
   if (i % 3 === 0) {
-      output += "Fizz";
+      output += "Fizz"
   }
   
   if (i % 5 === 0) {
-      output += "Buzz";
+      output += "Buzz"
   }
   
   if (i % 7 === 0) {
-      output += "Biff";
+      output += "Biff"
   }
 
   if (i % 9 === 0) {
-      output += "Fuzz";
+      output += "Fuzz"
   }
 
   if (i % 11 === 0) {
-      output += "Bizz";
+      output += "Bizz"
   }
 
   if (output === "") {
-      output = i;
+      output = i
   }
 
-  console.log(output);
+  console.log(output)
 }
 }
 
