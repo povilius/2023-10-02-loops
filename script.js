@@ -238,7 +238,7 @@ for (let i = 1; i <= 300; i++) {
       output += "Bizz"
   }
 
-  if (output === "") {
+  if (!output) {
       output = i
   }
 
